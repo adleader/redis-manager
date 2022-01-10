@@ -1,3 +1,6 @@
+参考部署：
+https://www.cnblogs.com/sanduzxcvbnm/p/12956441.html
+
 # Redis Manager
 
 [![Build Status](https://user-gold-cdn.xitu.io/2019/11/5/16e3bca6874b2a56?w=90&h=20&f=svg&s=724)](https://travis-ci.org/ngbdf/redis-manager)
